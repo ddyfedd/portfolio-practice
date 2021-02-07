@@ -1,0 +1,60 @@
+baseurl         = "https://example.davidzsamboki.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Practice Portfolio Site"
+  subtitle    = "These are my stuff"
+
+  cover       = "images/main-cover.jpg"
+  description = "This site is for practicing Hugo and to showcase my coding experience, mostly from FreeCodeCamp."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  
+  fbName = "david.zsamboki.7"
+  githubName = "ddyfedd"
+
+  logo = ""
+  orgName = "DZs Information Development"
+  orgWebsite = ""
+  orgDescription = "My organization intended to provide various services: Technical Writing, Information Architecture Deveolpment, Content Strategy Impementation, etc."
+
+  author = "Dávid Zsámboki"
+  authorAvatar = "images/profil.jpg"
+  authorLocation = "Nijmegen, NL"
+  authorWebsite = ""
+  authorDescription = "Research Master student specialized in Philosophy of Mind, Technical Writer, self-taught Developer. Interested in Information Managemen, Content Strategy, and any kind of usecases of my ability to read and write. Also a hobby-producer since 2017."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/projects/"
+  weight = 100
+
+[[menu.main]]
+  name = "Music"
+  url = "/categories/music/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
