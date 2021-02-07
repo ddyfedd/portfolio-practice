@@ -51,7 +51,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Music"
-  url = "/categories/music/"
+  url = "/tags/music/"
   weight = 99
 
 [[menu.main]]
