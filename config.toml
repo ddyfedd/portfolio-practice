@@ -54,7 +54,3 @@ paginate        = 6
   url = "/tags/music/"
   weight = 99
 
-[[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
-  weight = 95
