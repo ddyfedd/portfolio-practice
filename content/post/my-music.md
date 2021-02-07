@@ -1,7 +1,7 @@
 ---
 title: "My Music"
 date: 2021-02-07T20:30:51+01:00
-draft: true
+draft: false
 image: "images/cover3.jpg"
 tags: ["music"]
 
