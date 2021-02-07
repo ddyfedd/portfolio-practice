@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://practice-portfolio-dzs.netlify.app/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
