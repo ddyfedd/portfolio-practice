@@ -2,7 +2,7 @@
 title: "OpenWeatherMap API Practice"
 date: 2021-02-08T13:35:21+01:00
 draft: false
-image: ""
+image: "images/cover4.jpg"
 tags: ["projects"]
 categories: []
 ---
