@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "images/profil.jpg"
   authorLocation = "Nijmegen, NL"
   authorWebsite = ""
-  authorDescription = "Research Master student specialized in Philosophy of Mind, Technical Writer, self-taught Developer. Interested in Information Managemen, Content Strategy, and any kind of usecases of my ability to read and write. Also a hobby-producer since 2017."
+  authorDescription = "Research Master student specialized in Philosophy of Mind, Technical Writer, self-taught Developer. Interested in Information Management, Content Strategy, and any kind of usecases of my ability to read and write. Also a hobby-producer since 2017."
 
   pageNotFoundTitle = "404 - Page not found"
 
