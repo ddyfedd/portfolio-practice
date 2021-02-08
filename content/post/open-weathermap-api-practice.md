@@ -11,17 +11,19 @@ categories: []
 
 After being rejected at some of my interviews for Technical Writing positions, I realized that my skill-set lack a strong basic understanding of API documentation and testing, in general.
 
-This was the time when I got a bit more into online courses about different development languages, but after I encountered this same problem several times, it was time to initiate some change. That is how I found the most helpful resource for Technical Writers wanting to broaden their skill-set: [I'd Rather Be Writing](https://idratherbewriting.com/).
+This was the time when I got a bit more into online courses about different development languages, but after I encountered this same problem several times, it was time to initiate some changes. That is how I found the most helpful resource for Technical Writers wanting to broaden their skill-set: [I'd Rather Be Writing](https://idratherbewriting.com/).
 
-[Here](../freecodecamp-portfolio/), you can see the results of me taking the _APIs and Microservices_ course on [freeCodeCamp.org](https://www.freecodecamp.org/)
+[Here](../freecodecamp-portfolio/), you can see the results of me taking the _APIs and Microservices_ course by [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 ## Main topics
 
-The site's purpose is to offer a quick introduction into the concepts, methods and tools involved in API development and documentation. As the number of API-based services are ever-more growing, there is a similarly growing demand for writers that can keep up with the pace of development. Not even mentioning the importance of including writers in the complete process of development from the start, as there are great opportunities to miss or catch, depending on the perspectives included.
+The site's purpose is to offer a quick introduction into the concepts, methods and tools involved in API development and documentation. As the number of API-based services are ever-more growing, there is a similarly growing demand for writers that can keep up with the pace of development, while maintaining a concise, high-quality documentation in cooperation with other teams. Also, not even mentioning the importance of including writers in the complete process of development from the start, as there are great opportunities to miss or catch, depending on the perspectives included.
 
-The Writers' involvement in such development processes and integrating tools that help to establish a more inclusive development environment can go a long way, in terms of resource planning/management, cost-effectiveness, or even user experience.
+The implications of Writers' involvement in such development processes and integrating tools that help to establish a more inclusive development environment can go a long way, in terms of resource planning/management, cost-effectiveness, or even user experience. There is a lot at stake, but that's why figuring out winning situations as a collective has enormous benefits.
 
-And to emphasise this phenomena, the [man](https://github.com/tomjoht) behind [I'd Rather Be Writing](https://idratherbewriting.com/) came up with his site, presenting several tools for developing, testing and documenting APIs. Some of the tools included in the tutorials:
+And to emphasise this phenomena, the [man](https://github.com/tomjoht) behind [I'd Rather Be Writing](https://idratherbewriting.com/) came up with his site, presenting several tools for developing, testing and documenting APIs. Furthermore, he gave numerous lectures at conferences, besides writing blog posts and articles about Technical Writing.
+
+Some of the tools included in the tutorials:
 
 - [Postman](https://www.postman.com/)
 - [Stoplight](https://stoplight.io/)
