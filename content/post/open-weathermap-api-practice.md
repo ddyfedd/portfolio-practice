@@ -13,6 +13,8 @@ After being rejected at some of my interviews for Technical Writing positions, I
 
 This was the time when I got a bit more into online courses about different development languages, but after I encountered this same problem several times, it was time to initiate some change. That is how I found the most helpful resource for Technical Writers wanting to broaden their skill-set: [I'd Rather Be Writing](https://idratherbewriting.com/).
 
+[Here](content/post/fcc-portfolio.md), you can see the results of me taking the _APIs and Microservices_ course on [freeCodeCamp.org](https://www.freecodecamp.org/)
+
 ## Main topics
 
 The site's purpose is to offer a quick introduction into the concepts, methods and tools involved in API development and documentation. As the number of API-based services are ever-more growing, there is a similarly growing demand for writers that can keep up with the pace of development. Not even mentioning the importance of including writers in the complete process of development from the start, as there are great opportunities to miss or catch, depending on the perspectives included.
