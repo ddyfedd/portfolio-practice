@@ -25,7 +25,7 @@ Since then, I have been in a duo project, we made it to a released EP, and I als
 - [Epistemic Emergence](https://blackoutrec.bandcamp.com/album/epistemic-emergence)
 - [Symbiosis](https://warromajarec.bandcamp.com/album/symbiosis-ep)
 
-And on top of these, my 2nd solo release is up on the corner of a couple of months. After one year of my fist one, this release is something I will be proud, the progress is clearly hearable. Stay tuned, and follow me everywhere:
+And on top of these, my 2nd solo release is up on the corner of a couple of months. After one year of my first one, this release is something I will be proud of, the progress is clearly hearable. Stay tuned, and follow me everywhere:
 - [Facebook](https://www.facebook.com/ddyfedd)
 - [SoundCloud](https://soundcloud.com/dyfed)
 - [Spotify](https://open.spotify.com/artist/1w4NlrYSJuEPgZ8TYQTQ4B?si=axRo_4DfTpOiFPf5zov2QA)
