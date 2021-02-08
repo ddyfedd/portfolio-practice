@@ -13,7 +13,7 @@ After being rejected at some of my interviews for Technical Writing positions, I
 
 This was the time when I got a bit more into online courses about different development languages, but after I encountered this same problem several times, it was time to initiate some change. That is how I found the most helpful resource for Technical Writers wanting to broaden their skill-set: [I'd Rather Be Writing](https://idratherbewriting.com/).
 
-[Here](../fcc-portfolio.md), you can see the results of me taking the _APIs and Microservices_ course on [freeCodeCamp.org](https://www.freecodecamp.org/)
+[Here](../freecodecamp-portfolio/), you can see the results of me taking the _APIs and Microservices_ course on [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 ## Main topics
 
