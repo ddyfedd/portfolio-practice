@@ -19,7 +19,7 @@ The site's purpose is to offer a quick introduction into the concepts, methods a
 
 The Writers' involvement in such development processes and integrating tools that help to establish a more inclusive development environment can go a long way, in terms of resource planning/management, cost-effectiveness, or even user experience.
 
-And to emphasise this phenomena, the man behind I'd Rather Be Writing came up with his site, presenting several tools for developing, testing and documenting APIs. Some of the tools included in the tutorials:
+And to emphasise this phenomena, the [man](https://github.com/tomjoht) behind [I'd Rather Be Writing](https://idratherbewriting.com/) came up with his site, presenting several tools for developing, testing and documenting APIs. Some of the tools included in the tutorials:
 
 - [Postman](https://www.postman.com/)
 - [Stoplight](https://stoplight.io/)
