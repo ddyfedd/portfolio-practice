@@ -40,5 +40,3 @@ I completed the same task with the different tools, and here is one of my OpenAP
 
 This same documentation was also created with Swagger, using YAML, just to practice JSON generation.
 And the list could go on endlessly, how much useful knowledge can be learned from this site alone.
-
-[Here](../redoc-page/) is the same API specification, embeded with the help of [Redoc.ly](https://redoc.ly/).
