@@ -28,6 +28,7 @@ Some of the tools included in the tutorials:
 - [Postman](https://www.postman.com/)
 - [Stoplight](https://stoplight.io/)
 - [Swagger](https://swagger.io/)
+- [Redocly](https://redoc.ly/)
 
 These and many more topics are examined, and there is a lot of stuff to practice as well. The main example is documenting an endpoint of the [OpenWeatherMap API](https://openweathermap.org/api), namely the `weather` endpoint.
 
@@ -39,3 +40,29 @@ I completed the same task with the different tools, and here is one of my OpenAP
 
 This same documentation was also created with Swagger, using YAML, just to practice JSON generation.
 And the list could go on endlessly, how much useful knowledge can be learned from this site alone.
+
+Here is the same API specification, embeded with the help of [Redocly](https://redoc.ly/):
+
+<html>
+  <head>
+    <title>ReDoc</title>
+    <!-- needed for adaptive design -->
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:300,400,700" rel="stylesheet">
+
+    <!--
+    ReDoc doesn't change outer page styles
+    -->
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <redoc spec-url='https://dzs-inf-dev.stoplight.io/api/v1/projects/dzs-inf-dev/stoplight-api-tutorial/nodes/reference/openweathermap.v1.yaml?branch=main&deref=all'></redoc>
+    <script src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"> </script>
+  </body>
+</html>
