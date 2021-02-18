@@ -51,15 +51,7 @@ Here is the same API specification, embeded with the help of [Redocly](https://r
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:300,400,700" rel="stylesheet">
 
-    <!--
-    ReDoc doesn't change outer page styles
-    -->
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-      }
-    </style>
+    
   </head>
   <body>
     <redoc spec-url='https://dzs-inf-dev.stoplight.io/api/v1/projects/dzs-inf-dev/stoplight-api-tutorial/nodes/reference/openweathermap.v1.yaml?branch=main&deref=all'></redoc>
