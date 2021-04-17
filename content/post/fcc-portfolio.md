@@ -31,8 +31,8 @@ These are the submitted solutions for the _APIs and Microservices Projects_ sect
 These are the submitted solutions for the _Quality Assurance Projects_ section:
 
 1. [Metric-Imperial Converter](https://fcc-qa-metricimperial-challange.dvidzsmboki.repl.co/)
-1. [Issue Tracker](https://fcc-issuetracker-dzs.glitch.me/) __Note:__ This solution is hosted on [Glitch](https://glitch.com/) due to some errors occurring on [Repl.it](https://replit.com/).
-1. [Personal Library](https://fcc-qa-library-dzs.glitch.me/) __Note:__ This solution is hosted on [Glitch](https://glitch.com/) due to some errors occurring on [Repl.it](https://replit.com/).
+1. [Issue Tracker](https://fcc-issuetracker-dzs.glitch.me/) __Note:__ This solution is hosted on [Glitch](https://glitch.com/) due to some errors with MongoDB occurring on [Repl.it](https://replit.com/).
+1. [Personal Library](https://fcc-qa-library-dzs.glitch.me/) __Note:__ This solution is hosted on [Glitch](https://glitch.com/) due to some errors with MongoDB occurring on [Repl.it](https://replit.com/).
 1. [Sudoku Solver](https://fcc-qa-sudokusolver.dvidzsmboki.repl.co/)
 1. [American British Translator](https://fcc-qa-british-american.dvidzsmboki.repl.co/)
 
