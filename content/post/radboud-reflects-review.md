@@ -10,9 +10,9 @@ categories: []
 
 This assignment was completed as part of my Methods and Skills 1 seminar during my Research Master Programme at [Radboud University Nijmegen](https://www.ru.nl/).
 
-You can watch the hole event here:
+You can watch the whole event here:
 
-{{< youtube 1JvkcstJ6Bk >}}
+{{< youtube id="1JvkcstJ6Bk" >}}
 
 My task was to write a short review about the event, you can find it [here](https://www.ru.nl/radboudreflects/terugblik/terugblik-2020/terugblik-2020/20-12-09-the-science-relaxation-lectures-by/) and below.
 
