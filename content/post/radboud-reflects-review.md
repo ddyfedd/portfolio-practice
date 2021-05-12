@@ -12,7 +12,7 @@ This assignment was completed as part of my Methods and Skills 1 seminar during 
 
 You can watch the hole event here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1JvkcstJ6Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/1JvkcstJ6Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}}
 
 My task was to write a short review about the event, you can find it [here](https://www.ru.nl/radboudreflects/terugblik/terugblik-2020/terugblik-2020/20-12-09-the-science-relaxation-lectures-by/) and below.
 
@@ -23,6 +23,8 @@ On 9 December, two experts gave a lecture on _“The Science of Relaxation”_: 
 The topic of the event, organized by _Radboud Reflects_ and _Donders Institute of Radboud University_, could not be more relevant these days. When the world is struggling with the results of a global pandemic affecting our everyday lives, it is no surprise that the value of efficient relaxation radically increases. Modernity brought dramatic changes to our habits and lifestyles, that is no question; and these changes are exaggerated by the results of new kinds of regulations determining our everyday activities. From shopping or working, through travelling, to leisure in general, we are in a constant rush due to the cravings we face while trying to live a fulfilling life. On top of this, everything is changing in an ever-accelerating manner, whereas people have less and less time for relaxation.
 
 ![Martin Dresler speaking at Radboud Reflects](https://www.ru.nl/publish/pages/991124/martin-dresler-foto-maaike-bijlsma.jpg "Martin Dresler speaking at Radboud Reflects")
+
+{{< figure src="/images/spf13.jpg" title="Martin Dresler speaking at Radboud Reflects" >}}
 
 ## Sleep - what is it good for?
 
