@@ -22,7 +22,7 @@ On 9 December, two experts gave a lecture on _“The Science of Relaxation”_: 
 
 The topic of the event, organized by _Radboud Reflects_ and _Donders Institute of Radboud University_, could not be more relevant these days. When the world is struggling with the results of a global pandemic affecting our everyday lives, it is no surprise that the value of efficient relaxation radically increases. Modernity brought dramatic changes to our habits and lifestyles, that is no question; and these changes are exaggerated by the results of new kinds of regulations determining our everyday activities. From shopping or working, through travelling, to leisure in general, we are in a constant rush due to the cravings we face while trying to live a fulfilling life. On top of this, everything is changing in an ever-accelerating manner, whereas people have less and less time for relaxation.
 
-![Martin Dresler speaking at Radboud Reflects]("images/martin-dresler-foto.jpg")
+![Martin Dresler speaking at Radboud Reflects](https://www.ru.nl/publish/pages/991124/martin-dresler-foto-maaike-bijlsma.jpg "Martin Dresler speaking at Radboud Reflects")
 
 ## Sleep - what is it good for?
 
@@ -30,7 +30,7 @@ In the first part of the lecture, _Martin Dresler_ presented parts of his resear
 
 Taking all these functions into consideration, _Dresler_ moved on to present the scientific methods for measuring sleep. He emphasized the importance of the quality of our sleeping habits by pointing out that the development of several health impairments, such as Alzheimer’s disease, are related to sleeping disorders. Following this thought, the question arises naturally: how could we improve the quality of our sleep? _Dresler_ discussed different methods that are aimed at the improvement of the different biological functions of sleeping. It was shown that beneficial outcomes could be achieved through the enhancement of sleep; however, there could also be unforeseen risks. Therefore, he ended up on a somewhat ethically charged thought: considering the unpredictability of the risks of trying to optimize sleeping, should we do it?
 
-![Anne Speckens speaking at Radboud Reflects](images/anne-speckens-foto.jpg)
+![Anne Speckens speaking at Radboud Reflects](https://www.ru.nl/publish/pages/991124/anne-speckens-foto-maaike-bijlsma.jpg "Anne Speckens speaking at Radboud Reflects")
 
 ## Mindfulness - a life practice or a practice of life
 
@@ -38,7 +38,7 @@ For the second lecture of the evening, _Anna Speckens_ took the floor to guide u
 
 _Speckens_ continued with presenting what they are doing to fight the negative effects of our lifestyles, by providing mindfulness training for people that are feeling the urge for change in their life. They teach various techniques, including meditation, to show people how they can be able to learn recognizing their unconscious emotional reactions and behavioral patterns, and by training to build an acceptance without judgement towards these. This is what they call disengagement; by achieving such a state the opportunity to objectively examine the once unconscious patterns, the opportunity arises to intentionally change them. If being successful in practicing and learning mindfulness, the results are better self-care by recognizing the true needs one might have, or by being able to accept unpleasant experiences. Another beneficial result can be a more open-minded attitude towards oneself and others, therefore gaining the ability to be more present in the building of meaningful human relationships.
 
-![The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects](../../static/images/cees-leijenhorst_-anne-speckens_-martin-dresler-foto.jpg)
+![The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects](https://www.ru.nl/publish/pages/991124/cees-leijenhorst_-anne-speckens_-martin-dresler-foto-maaike-bijlsma-.jpg "The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects")
 
 ## Mindfulness and sleep - how are they related?
 
