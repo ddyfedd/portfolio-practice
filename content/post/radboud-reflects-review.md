@@ -10,7 +10,7 @@ categories: []
 
 This assignment was completed as part of my Methods and Skills 1 seminar during my Research Master Programme at [Radboud University Nijmegen](https://www.ru.nl/).
 
-You can watch the whole event here:
+You can watch the video of whole event here:
 
 {{< youtube id="1JvkcstJ6Bk" >}}
 
