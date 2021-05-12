@@ -24,8 +24,6 @@ The topic of the event, organized by _Radboud Reflects_ and _Donders Institute o
 
 ![Martin Dresler speaking at Radboud Reflects](https://www.ru.nl/publish/pages/991124/martin-dresler-foto-maaike-bijlsma.jpg "Martin Dresler speaking at Radboud Reflects")
 
-{{< figure src="/images/martin-dresler-foto.jpg" title="Martin Dresler speaking at Radboud Reflects" >}}
-
 ## Sleep - what is it good for?
 
 In the first part of the lecture, _Martin Dresler_ presented parts of his research on sleep. He introduced the strangeness of the controversiality of sleep as an activity practiced virtually by every animal. Looking at it from an evolutionary perspective, considering sleep as something beneficial seems rather paradoxical, as during sleep there is a higher risk of being attacked by a predator, without being able to flee or of self-defense. However, besides our general experience, research showed that sleep has quite a few biological functions that are crucial for our cognitive capacities to work properly. These functions include clearing the brain of its waste products produced during waking-time, regulating energy metabolism or hormonal balance of the brain, developing the immunological memory of our body, or regulating memory consolidation and emotions. Furthermore, dreaming, by simulating threatening situations, can contribute to the development of various coping mechanisms, that can be beneficial not just in a biological manner, but also from a social or psychological perspective too.
@@ -34,8 +32,6 @@ Taking all these functions into consideration, _Dresler_ moved on to present the
 
 ![Anne Speckens speaking at Radboud Reflects](https://www.ru.nl/publish/pages/991124/anne-speckens-foto-maaike-bijlsma.jpg "Anne Speckens speaking at Radboud Reflects")
 
-{{< figure src="/images/anne-speckens-foto.jpg" title="Anne Speckens speaking at Radboud Reflects" >}}
-
 ## Mindfulness - a life practice or a practice of life
 
 For the second lecture of the evening, _Anna Speckens_ took the floor to guide us through the vast field of mindfulness research. Having its origins in the Eastern traditional philosophies like Buddhism, the ever-growing interest in Western cultures surrounding the practitioners and scientists engaging in mindfulness is a rather peculiar phenomenon. There is no surprise for this expanding interest, as in Western societies with the fixation on constant economic growth and expansion, complemented with the pressure to be successful and achieve as much as it is possible. People usually are not able to have enough time to process all the information and experiences they are bombarded with. The increased pressure present in our everyday life is one of the main causes of the increasing occurrences of mental disorders as anxiety, depression, stress, distress, or burnout.
@@ -43,8 +39,6 @@ For the second lecture of the evening, _Anna Speckens_ took the floor to guide u
 _Speckens_ continued with presenting what they are doing to fight the negative effects of our lifestyles, by providing mindfulness training for people that are feeling the urge for change in their life. They teach various techniques, including meditation, to show people how they can be able to learn recognizing their unconscious emotional reactions and behavioral patterns, and by training to build an acceptance without judgement towards these. This is what they call disengagement; by achieving such a state the opportunity to objectively examine the once unconscious patterns, the opportunity arises to intentionally change them. If being successful in practicing and learning mindfulness, the results are better self-care by recognizing the true needs one might have, or by being able to accept unpleasant experiences. Another beneficial result can be a more open-minded attitude towards oneself and others, therefore gaining the ability to be more present in the building of meaningful human relationships.
 
 ![The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects](https://www.ru.nl/publish/pages/991124/cees-leijenhorst_-anne-speckens_-martin-dresler-foto-maaike-bijlsma-.jpg "The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects")
-
-{{< figure src="/images/cees-leijenhorst_-anne-speckens_-martin-dresler-foto.jpg" title="The discussion hosted by Cees Leijenhorst (left) at Radboud Reflects" >}}
 
 ## Mindfulness and sleep - how are they related?
 
