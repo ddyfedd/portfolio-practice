@@ -12,6 +12,7 @@ categories: []
 On this page you can find my completed assignments as included in different courses on [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 __Note:__ All the API microservices are hosted on [Glitch](https://glitch.com/).
+
 __Note:__ All the Quality Assurance solutions are hosted on [Repl.it](https://replit.com/).
 
 Using the above-mentioned two tools to host, I managed to get a good understanding of these platforms. However, for editing purposes I found easier creating a local clone of the [GitHub](https://github.com) repository, pushing it to a new remote repository, and hosting them from my own [GitHub](https://github.com) repository.
