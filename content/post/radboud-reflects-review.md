@@ -46,4 +46,3 @@ _Speckens_ presented results of research analyzing the connection between practi
 
 In the last section, the two lecturers answered some questions from the online audience, presented by _Cees Leijenhorst_, the host of the event. Most questions considered techniques for sleep enhancement, the role of mindfulness in achieving a fulfilling life, or the undervaluation of sleep in our society. With their preparedness and expertise, the audience were presented by a livid, more personal discussion of the individual aspect of the relationship between sleep and mindfulness.
 
-Dávid Zsámboki
