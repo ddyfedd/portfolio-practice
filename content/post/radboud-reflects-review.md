@@ -2,7 +2,7 @@
 title: "Radboud Reflects Review"
 date: 2021-05-12T18:46:47+02:00
 draft: false
-image: "cover5.jpg"
+image: "images/cover5.jpg"
 tags: ["projects"]
 categories: []
 ---
@@ -22,7 +22,7 @@ On 9 December, two experts gave a lecture on _“The Science of Relaxation”_: 
 
 The topic of the event, organized by _Radboud Reflects_ and _Donders Institute of Radboud University_, could not be more relevant these days. When the world is struggling with the results of a global pandemic affecting our everyday lives, it is no surprise that the value of efficient relaxation radically increases. Modernity brought dramatic changes to our habits and lifestyles, that is no question; and these changes are exaggerated by the results of new kinds of regulations determining our everyday activities. From shopping or working, through travelling, to leisure in general, we are in a constant rush due to the cravings we face while trying to live a fulfilling life. On top of this, everything is changing in an ever-accelerating manner, whereas people have less and less time for relaxation.
 
-![Martin Dresler speaking at Radboud Reflects](../../static/images/martin-dresler-foto.jpg)
+![Martin Dresler speaking at Radboud Reflects]("images/martin-dresler-foto.jpg")
 
 ## Sleep - what is it good for?
 
@@ -30,7 +30,7 @@ In the first part of the lecture, _Martin Dresler_ presented parts of his resear
 
 Taking all these functions into consideration, _Dresler_ moved on to present the scientific methods for measuring sleep. He emphasized the importance of the quality of our sleeping habits by pointing out that the development of several health impairments, such as Alzheimer’s disease, are related to sleeping disorders. Following this thought, the question arises naturally: how could we improve the quality of our sleep? _Dresler_ discussed different methods that are aimed at the improvement of the different biological functions of sleeping. It was shown that beneficial outcomes could be achieved through the enhancement of sleep; however, there could also be unforeseen risks. Therefore, he ended up on a somewhat ethically charged thought: considering the unpredictability of the risks of trying to optimize sleeping, should we do it?
 
-![Anne Speckens speaking at Radboud Reflects](../../static/images/anne-speckens-foto.jpg)
+![Anne Speckens speaking at Radboud Reflects](images/anne-speckens-foto.jpg)
 
 ## Mindfulness - a life practice or a practice of life
 
