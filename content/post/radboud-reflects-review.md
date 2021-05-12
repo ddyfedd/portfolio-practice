@@ -12,7 +12,7 @@ This assignment was completed as part of my Methods and Skills 1 seminar during 
 
 You can watch the hole event here:
 
-{{<iframe width="560" height="315" src="https://www.youtube.com/embed/1JvkcstJ6Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1JvkcstJ6Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My task was to write a short review about the event, you can find it [here](https://www.ru.nl/radboudreflects/terugblik/terugblik-2020/terugblik-2020/20-12-09-the-science-relaxation-lectures-by/) and below.
 
