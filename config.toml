@@ -1,5 +1,5 @@
 baseurl         = "https://practice-portfolio-dzs.netlify.app/"
-theme           = "hugo-swift-theme"
+theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
