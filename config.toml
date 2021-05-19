@@ -48,9 +48,16 @@ paginate        = 6
   name = "Projects"
   url = "/tags/projects/"
   weight = 100
+  
 
 [[menu.main]]
-  name = "Music"
-  url = "/tags/music/"
-  weight = 99
+  name = "Publications"
+  url = "/tags/publications/"
+  weight = 100
+
+
+# [[menu.main]]
+#   name = "Music"
+#   url = "/tags/music/"
+#   weight = 99
 
