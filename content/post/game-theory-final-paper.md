@@ -116,10 +116,7 @@ _A_ and _B_ are arrested and detained. Both of them are separated and kept in so
 
 Using a table could better illustrate the payoff matrix of such decision's outcomes, the numbers showing the years they would have to serve:
 
-|                  || __B remains silent__ | __B betrays A__ |
-|------------------||------------------|-------------|
-| __A remains silent__ ||        1, 1      |     3, 0    |
-| __A betrays B__      ||        0, 3      |     2, 2    |
+![Table 2 - Prisoner's Dilemma payoff matrix](/static/images/table2.jpg)
 
 Here the altruistic choices are represented by remaining silent, and cheating by betrayal. The best case is when both A and B are altruistic, that is, remaining silent in spite of not being sure the other will do the same. However, this conception needs some refinement, if we wanted it to account for reciprocal altruism.
 
