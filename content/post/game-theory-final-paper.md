@@ -1,7 +1,7 @@
 ---
 title: "Is Game Theory a good model for explaining altruism?"
 date: 2021-08-17T18:46:47+02:00
-draft: true
+draft: false
 image: "images/cover6.jpg"
 tags: ["publications"]
 categories: []
@@ -34,7 +34,7 @@ Cooperative breeding is a concept generally used in biology, referring to such a
 
 Cooperative breeding occurs relatively rarely among animals, only in around 2-3% of species. Although it seems uncommon, cooperative breeding has evolved on several occasions across different species. The general assumption is that the help received by an infant comes approximately 50% from the mother, whereas the other 50% is provided by other kin or non-kin individuals, like fathers, grandmothers, siblings, etc.
 
-This behavior, namely, to participate in the upbringing of an offspring from another descent, raises two evolutionary questions: (1) ‘why spend time and energy to support another's reproductive interests?', and (2) ‘does helping make a difference to maternal fitness and child well-being?' (Kramer, 2015)
+This behavior, namely, to participate in the upbringing of an offspring from another descent, raises two evolutionary questions: (1) 'why spend time and energy to support another's reproductive interests?', and (2) 'does helping make a difference to maternal fitness and child well-being?' (Kramer, 2015)
 
 The main feature here is the raise of inclusive fitness either of the helper or the one receiving the help. Whether helping behavior would be favored, is dependent on the formula proposed by Hamilton (1964): _rb > c_. This formulation of kin selection proposes, that helping behavior will be selected towards, when _rb > c_ is true, where r refers to the degree of relatedness, b is the raise of inclusive fitness of the recipient, and c is the cost covered by the helper. Before Hamilton, there was no tenable formulation to explain the conditions of helping behavior.
 
@@ -50,7 +50,7 @@ Turning to the second question kin selection theory addresses, that is, whether 
 
 We can see now that kin-based positive discrimination in the case of providing allomaternal care is beneficent, in several respects, both for the mother and the offspring. This way, it is no mystery why sexually mature helpers engage in such costly behaviors while decreasing their own reproductive chances. The costs and benefits of helping involve various explanations, depending on the helper's relatedness. These types of relatedness and their corresponding explanations are summarized in the following table (Kramer, 2015, 5. p.):
 
-![](images/table1.jpg)                                               
+![Table 1 - Types of relatedness and their explanations](/static/images/table1.jpg)                                               
 
 What we have already seen, is that kin-based positive discrimination has evolutionary benefits, with an overall higher payoff, given Hamilton's formula. However, at this point, the question appeared to me, what is the case, where the coefficient of relatedness (_r_) is so low, that we would naturally predict selection against helping? This was the step, where I found myself thinking about different forms of altruism, and realized that kin selection theory only provides a good explanation for specific cases of helping, whereas other cooperative and beneficent behaviors cannot be accounted for only _by rb > c_.
 
