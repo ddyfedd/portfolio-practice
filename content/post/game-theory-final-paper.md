@@ -50,13 +50,13 @@ Turning to the second question kin selection theory addresses, that is, whether 
 
 We can see now that kin-based positive discrimination in the case of providing allomaternal care is beneficent, in several respects, both for the mother and the offspring. This way, it is no mystery why sexually mature helpers engage in such costly behaviors while decreasing their own reproductive chances. The costs and benefits of helping involve various explanations, depending on the helper's relatedness. These types of relatedness and their corresponding explanations are summarized in the following table (Kramer, 2015, 5. p.):
 
-![Table 1 - Types of relatedness and their explanations](/static/images/table1.jpg)                                               
+![Table 1 - Types of relatedness and their explanations](/images/table1.jpg)                                               
 
 What we have already seen, is that kin-based positive discrimination has evolutionary benefits, with an overall higher payoff, given Hamilton's formula. However, at this point, the question appeared to me, what is the case, where the coefficient of relatedness (_r_) is so low, that we would naturally predict selection against helping? This was the step, where I found myself thinking about different forms of altruism, and realized that kin selection theory only provides a good explanation for specific cases of helping, whereas other cooperative and beneficent behaviors cannot be accounted for only _by rb > c_.
 
 Kramer also raised similar concerns: “_cooperative behaviors may be motivated by factors besides kin selection. Researchers have raised the point that kin selection is an ultimate cause focused on fitness payoffs. Because these payoffs often are time delayed, kin selection may be insufficient to explain the motivation to cooperate._” (Kramer, 2015, 7. p.) My concerns about the feasibility of kin selection as an ultimate explanation of helping seems grounded, so now I will move on to examine, whether altruism could be a possible alternative accounting for different forms of cooperative behaviors with no relatedness present as a motivational factor for preferring helping.
 
-## Altruism and other types of cooperative and beneficient behaviors
+## Altruism and other types of cooperative and beneficent behaviors
 
 First, I would like to examine what the term altruism refers to, in a biological or evolutionary context. The word, in general, is used as an antonym of egoism, from this starting point, we could define altruism in a biological context, as performing an action that is at the cost to the individual performing it, but benefits another individual, either directly or indirectly. A somewhat more precise definition could be made by including some terms used in ethology or social evolution: altruism consists of such behavior, performed by an individual, that increases the fitness of some other individual, whereas decreases the fitness of the actor.
 
@@ -64,7 +64,7 @@ Some definitions of altruism deny the possibility of reciprocity, that is what w
 
 Reciprocal altruism in evolutionary biology refers to those behaviors, where an organism performs an action in such a manner that it increases the inclusive fitness of another organism, not closely related while reducing its own inclusive fitness, complemented with the expectation towards the organism receiving the benefit to perform a similar action in the future. Robert Trivers first coined the term in an essay published in 1971: _The Evolution of Reciprocal Altruism_. In the following section, I briefly summarize his article's main arguments.
 
-### Trivers's conception of reciprocal altruism
+### __Trivers's conception of reciprocal altruism__
 
 The main intention of Trivers's article is to give a reasonable model accounting for the natural selection towards reciprocally altruistic behavior. His concerns towards Hamilton's kin selection theory have the same basis as mine: “_degree of relationship is an important parameter in predicting how selection will operate, and behavior which appears altruistic may, on knowledge of the genetic relationships of the organisms involved, be explicable in terms of natural selection: those genes being selected for that contribute to their own perpetuation, regardless of which individual genes appear in._” (Trivers, 1971, 35. p.) Trivers argues, that his model is applicable to cases of asymmetric beneficial transactions affecting organisms' inclusive fitness, where the parties are even members of different species while ruling out kin selections exclusivity by presenting how altruistic behaviors can be selected for.
 
@@ -82,7 +82,7 @@ In the first case, altruism spreading randomly, thus being irrespective of the f
 
 Given the above-described selective tendencies, Trivers (1971) concludes that altruistic alleles would be favored insomuch as the net average benefit to altruists are greater than the average benefit of non-altruist. This is true in cases where altruists limit their altruistic acts to their fellow altruists. Therefore, compared to Hamilton's (1964) formulation, this argument will also hold for altruistic acts transferred between individuals of different species.
 
-### Biological parameters of reciprocal altruism
+### __Biological parameters of reciprocal altruism__
 
 Trivers (1971) moves on to state the three conditions for the greatest probability to favor altruistic behavior:
 
@@ -101,7 +101,7 @@ From these three conditions, we can infer the following biological parameters, i
 
 Trivers (1971) considers this list as a suggestion of some examples for the conditions positively influencing the evolution of reciprocal altruism.
 
-### Prisoner's Dilemma as an analogy of symmetrical reciprocity
+### __Prisoner's Dilemma as an analogy of symmetrical reciprocity__
 
 After describing the biological features contributing to the evolution of reciprocal altruism, Trivers (1971) turns to argue that reciprocal situations between two individuals, where the cost/benefit ratios are symmetrical, are similar to the scenario described by the Prisoner's Dilemma, developed by game theorists.
 
@@ -124,11 +124,11 @@ First, this situation can be made a bit more realistic by enabling the transacti
 
 While it is clear that reciprocal altruism could only develop under highly specialized conditions, Trivers (1971) adds, that reciprocal altruism can be viewed as a situation depicted in the Prisoner's Dilemma, given there is a time lag between the reciprocal payoff after helping the other. Here he differentiates between direct and indirect reciprocity, by bringing some examples. For example, food-sharing between partners can be an acceptable form for direct reciprocity, by one sharing food on one occasion, then the other returning the favor in the future. For indirect reciprocal altruism, Trivers (1971) brings the example of alarm calls, where the first alarm call sets out a series of events leading, after a time lag, to the benefit of the caller. He supposes the condition of time lag as one of the crucial factors in the explanation of reciprocal altruism; however, in the following sections, I am going to try to analyze, first, whether the condition of time lag is really that crucial, and second, whether the Prisoner's Dilemma is a realistic basis for explaining reciprocal altruism.
 
-### Confusion around what is reciprocal altruism
+### __Confusion around what is reciprocal altruism__
 
 To achieve the goals set out at the end of the last section, I will use the arguments proposed by Rothstein and Pierotti (1988). They begin by criticizing the definition and examples used by Trivers (1971), as they are neither accurate enough to accept the difference between kin selection and reciprocal altruism nor are his examples pointing at the phenomena he tries to explain as reciprocal altruism. For this, they propose a new formulation for reciprocal altruism, so the difference between kin selection, or other types of cooperation, and reciprocal altruism is clearer. Then, they define four categories of cooperative/beneficent behavior, to avoid further confusion originating from using inaccurate definitions.
 
-#### The difference between kin selection and reciprocal altruism
+#### _The difference between kin selection and reciprocal altruism_
 
 Rothstein and Pierotti propose the following definition for reciprocal altruism: "_RA_ [reciprocal altruism] _is beneficent behavior whose selective maintenance depends upon reciprocation at a future time by the aided individual although the beneficent individual may receive some indirect increment to its inclusive fitness as a result of its aid._" (Rothstein and Pierotti, 1988, 193. p.) Therefore, they arrive at the conclusion, that there are cases where reciprocal altruism works similar to kin selection, however by adding extra conditions to Hamilton's formula, we can clearly see the difference.
 
