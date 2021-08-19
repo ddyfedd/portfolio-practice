@@ -132,7 +132,7 @@ To achieve the goals set out at the end of the last section, I will use the argu
 
 Rothstein and Pierotti propose the following definition for reciprocal altruism: "_RA_ [reciprocal altruism] _is beneficent behavior whose selective maintenance depends upon reciprocation at a future time by the aided individual although the beneficent individual may receive some indirect increment to its inclusive fitness as a result of its aid._" (Rothstein and Pierotti, 1988, 193. p.) Therefore, they arrive at the conclusion, that there are cases where reciprocal altruism works similar to kin selection, however by adding extra conditions to Hamilton's formula, we can clearly see the difference.
 
-Let's assume that individual _A_ provides some aid to _B_, resulting in _B_'s increase of inclusive fitness. Let BeB refer to the benefit received by _B_, and _C_ the costs of providing aid. The indirect increment of _A's inclusive fitness is _BˇeˇB - C_. Consider the following cases:
+Let's assume that individual _A_ provides some aid to _B_, resulting in _B_'s increase of inclusive fitness. Let BeB refer to the benefit received by _B_, and _C_ the costs of providing aid. The indirect increment of _A_'s inclusive fitness is _BˇeˇB - C_. Consider the following cases:
 
 1. 
 1. 
