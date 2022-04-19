@@ -1,6 +1,6 @@
 ---
 title: "Is Game Theory a good model for explaining altruism?"
-date: 2021-08-17T18:46:47+02:00
+date: 2022-04-19T10:25:47+02:00
 draft: false
 image: "images/cover6.jpg"
 tags: ["publications"]
