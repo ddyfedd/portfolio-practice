@@ -91,8 +91,8 @@ All in all, these were the skills I had to develop and practice a bit more to be
 
 And to close off, here are some helpful resources if you would like to start your journey on the road towards Technical Writing. These were more than helpful when I had to find something to become better. Of course, this list is seriously incomplete, but Google is your best friend if you need some more material!
 
-- (https://developers.google.com/tech-writing)
-- (https://idratherbewriting.com/)
-- (https://www.freecodecamp.org/)
-- (https://becometechnicalwriter.com/)
-- (https://www.scriptorium.com/)
+- https://developers.google.com/tech-writing
+- https://idratherbewriting.com/
+- https://www.freecodecamp.org/
+- https://becometechnicalwriter.com/
+- https://www.scriptorium.com/
