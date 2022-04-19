@@ -66,13 +66,13 @@ Reciprocal altruism in evolutionary biology refers to those behaviors, where an 
 
 ### __Trivers's conception of reciprocal altruism__
 
-The main intention of Trivers's article is to give a reasonable model accounting for the natural selection towards reciprocally altruistic behavior. His concerns towards Hamilton's kin selection theory have the same basis as mine: “_degree of relationship is an important parameter in predicting how selection will operate, and behavior which appears altruistic may, on knowledge of the genetic relationships of the organisms involved, be explicable in terms of natural selection: those genes being selected for that contribute to their own perpetuation, regardless of which individual genes appear in._” (Trivers, 1971, 35. p.) Trivers argues, that his model is applicable to cases of asymmetric beneficial transactions affecting organisms' inclusive fitness, where the parties are even members of different species while ruling out kin selections exclusivity by presenting how altruistic behaviors can be selected for.
+The main intention of Trivers's article is to give a reasonable model accounting for the natural selection towards reciprocally altruistic behavior. His concerns towards Hamilton's kin selection theory have the same basis as mine: '_degree of relationship is an important parameter in predicting how selection will operate, and behavior which appears altruistic may, on knowledge of the genetic relationships of the organisms involved, be explicable in terms of natural selection: those genes being selected for that contribute to their own perpetuation, regardless of which individual genes appear in._' (Trivers, 1971, 35. p.) Trivers argues, that his model is applicable to cases of asymmetric beneficial transactions affecting organisms' inclusive fitness, where the parties are even members of different species while ruling out kin selections exclusivity by presenting how altruistic behaviors can be selected for.
 
-He begins by introducing an analogy of a human saving another human's life, by rescuing them from drowning. There is a specific set up for the constellation of cost/benefit ratios and probabilities, but the two main features of this analogy are: (1) there is an asymmetric relation between the cost/benefit ratio of the two parties, and (2) we have to assume a capacity to discriminate between ‘cheaters' (those who would not reciprocate in the future) and ‘non-cheaters'.
+He begins by introducing an analogy of a human saving another human's life, by rescuing them from drowning. There is a specific set up for the constellation of cost/benefit ratios and probabilities, but the two main features of this analogy are: (1) there is an asymmetric relation between the cost/benefit ratio of the two parties, and (2) we have to assume a capacity to discriminate between 'cheaters' (those who would not reciprocate in the future) and 'non-cheaters'.
 
-In the first case, what can be said is that the benefits of reciprocity depend on the unequal distribution of the altruistic act's cost/benefit ratio. This means that the costs paid by the helper are always lower than the benefit received. Complementing this principle, it is easily imaginable that in the case of a reversed scenario, the one who has already helped has the rightful expectation towards the other to pay the same amount of cost in order to gain the higher benefits. By not complying with this principle, if the one who has already been helped, this time not providing help will be labeled as a ‘cheater' of the principle of reciprocity. Natural selection will select against cheaters if the future disadvantageous effects of cheating outweigh the advantages of not reciprocating. A clear case of this scenario would be if the first donor of an altruistic act would avoid donating any further altruistic gestures to the cheater. When the benefits of such lost possible transactions are greater than the costs of reciprocating, selection will act against the cheater, compared to those engaging in altruistic exchanges.
+In the first case, what can be said is that the benefits of reciprocity depend on the unequal distribution of the altruistic act's cost/benefit ratio. This means that the costs paid by the helper are always lower than the benefit received. Complementing this principle, it is easily imaginable that in the case of a reversed scenario, the one who has already helped has the rightful expectation towards the other to pay the same amount of cost in order to gain the higher benefits. By not complying with this principle, if the one who has already been helped, this time not providing help will be labeled as a 'cheater' of the principle of reciprocity. Natural selection will select against cheaters if the future disadvantageous effects of cheating outweigh the advantages of not reciprocating. A clear case of this scenario would be if the first donor of an altruistic act would avoid donating any further altruistic gestures to the cheater. When the benefits of such lost possible transactions are greater than the costs of reciprocating, selection will act against the cheater, compared to those engaging in altruistic exchanges.
 
-We can project these conditions to a bigger population, to generalize the argument. Suppose there are altruists and non-altruists in a population, where altruists will always favor being altruistic when the benefits of the recipient are significantly higher than the cost to the altruist. Here cost meaning the “_degree to which the behavior retards the reproduction of the genes of the altruist_”, whereas benefit meaning the “_degree to which the behavior increases the rate of reproduction of the genes of the recipient._” (Trivers, 1971, 36. p.) Now we can assume that allele _a2_ is responsible for favoring altruistic behavior, while its alternative, a1, is responsible for avoiding altruistic behavior. Trivers distinguishes the following three possibilities:
+We can project these conditions to a bigger population, to generalize the argument. Suppose there are altruists and non-altruists in a population, where altruists will always favor being altruistic when the benefits of the recipient are significantly higher than the cost to the altruist. Here cost meaning the "_degree to which the behavior retards the reproduction of the genes of the altruist_", whereas benefit meaning the "_degree to which the behavior increases the rate of reproduction of the genes of the recipient._" (Trivers, 1971, 36. p.) Now we can assume that allele _a2_ is responsible for favoring altruistic behavior, while its alternative, a1, is responsible for avoiding altruistic behavior. Trivers distinguishes the following three possibilities:
 
 1. altruism spreads randomly throughout the population,
 1. altruism spreads non-randomly, based on kin selection of the recipients,
@@ -157,3 +157,56 @@ Besides the difference in timing of actions in the two phenomena and the symmetr
 
 Another crucial difference is the number of events needed for each situation. In reciprocal altruism, there are at least 2 events needed to meet the conditions, whereas in cooperation involving simultaneous actions there is no reason to involve several events, as the benefits being mutual are the result of each individual's work. In the following part of their article, Rothstein and Pierotti (1988) refer to cooperation as simultaneous cooperation, to avoid further confusion as reciprocal altruism can be viewed as a form of cooperation.
 
+### __Four categories of cooperative and beneficent behavior
+
+At this point, we can see now that what first has been defined as reciprocal altruism by Trivers (1971), was due to confusions emerging from inaccurate presentation of conditions by wrongly chosen examples. This approach resulted in mistaking other cooperative/beneficent behaviors to be cases of reciprocal altruism. Rothstein and Pierotti (1988) dissolved the confusion by introducing four categories of cooperative and beneficent behaviors. Here follow the steps involved in each of the categories presented (Rothstein and Pierotti, 1988, 201. p.):
+
+1. __By-product beneficence:__
+  1. Only one individual donates services,
+  1. Both individuals receive benefits,
+  1. This is true for both the first and all following transactions,
+  1. The asymmetry present in the relationship could be permanent,
+  1. There is no selection for cheating, and no need for more than one act.
+1. __Pseudoreciprocity:__
+  1. Only one individual donates services,
+  1. But only the other receives benefits from the first act,
+  1. Both benefit from the second act resulting from services by both, or only the original recipient,
+  1. There is selection for cheating on the first act, but not on the second,
+  1. Transactions must occur evenly (multiples of two).
+1. __Reciprocal altruism:__
+  1. Only one individual donates services, and only the other receives benefits in the first and all following transactions,
+  1. The donor/recipient asymmetry must reverse,
+  1. Every act has to entail a high probability of future acts, (thus enabling the reversal of the asymmetry),
+  1. There is selection for cheating on each occasion,
+  1. Needs to be more than 2 acts, the further number of acts is unpredictable.
+1. __Simultaneous cooperation:__
+  1. Both individuals donate services simultaneously,
+  1. Both individuals receive benefits from all the transactions,
+  1. There is weak selection for cheating, same on each act,
+  1. No need for more than one act.
+
+The authors conclude that while there is a possibility of intermediate cases of cooperative/beneficent behavior, their categorization can be applied to most, if not all, cases.
+
+## Conclusion and the arguments against the Prisoner's Dilemma
+
+However far it may seem, my main goal was to provide arguments against models based on the Prisoner's Dilemma explaining altruism. But in order to achieve such a goal, first, I had to offer some insight into the necessary steps involved to make my thought process seem convincing.
+
+The first problem of models based on the Prisoner's Dilemma is neglecting the fact that in real-life cases of reciprocal altruism, both parties have knowledge about each other's tendencies to help after the first couple of transactions, and their decision-making is not simultaneous as in the case of Prisoner's Dilemma. The option to form decisions based on previous encounters is more restricted in situations like the Prisoner's Dilemma, as the decision-making happens simultaneously, therefore these situations don't involve asymmetric cost/benefit relations due to their simultaneity. Thus, the Prisoner's Dilemma is rather similar to cases of simultaneous cooperation. However, this similarity is also too allowing, as the condition of not being able to communicate simply excludes the possibility of real cooperation. "_Thus, the prisoner's dilemma is a curious hybrid between RA [reciprocal altruism] and SCO [simultaneous cooperation] and is not the best way to model either phenomenon._", Rothstein and Pierotti conclude (1988, 207. p.).
+
+Another problem is over-emphasizing the role one particular strategy, namely the 'tit-for-tat' strategy, plays in models, based on the Prisoner's Dilemma, intended to explain the initial evolution of reciprocal altruism. The strategy consists of repeating the previous action of the other individual: if _A_ cheats first, and _B_ cooperates, the next round _A_ will cooperate and _B_ will cheat, and so on. However, this strategy cannot represent reciprocal altruism, as there is the opportunity to mutually harm each other. Furthermore, 'tit-for-tat' is a rather complicated behavior, so it is highly improbable to emerge in a population without previous cooperative/beneficent behaviors present. Therefore, Rothstein and Pierotti propose, due to its simplicity, by-product beneficence to be a more accurate basis for the evolution of such complex cooperative/beneficent behaviors as reciprocal altruism.
+
+As for making my argument's scope a bit more general, and to reflect on the application of Game Theory as a means to develop models for evolutionary phenomena. We have to be overly careful when analyzing the situations we would like to model. As we have seen, the probability of failure to give proper examples and of defining phenomena without the dangers of risking confusion is high, and our inquiries have to take these risks into account, in order to avoid or lower them.
+
+To conclude, we can see that in order to account for highly specialized evolutionary behaviors, there is a strong need for accurate model selection and explication of definitions, to avoid confusion and ambiguity between different, but strongly similar, phenomena. However, to achieve such a conclusion we cannot skip the necessary historical process of the natural debate revolving around conceptions.
+
+## Bibiliography
+
+Hamilton, W.D. 'The Genetical Evolution of Social Behaviour. I'. _Journal of Theoretical Biology_ 7, no. 1 (July 1964): 1-16. [https://doi.org/10.1016/0022-5193(64)90038-4].
+
+Hamilton, W.D. 'The Genetical Evolution of Social Behaviour. II'. _Journal of Theoretical Biology_ 7, no. 1 (July 1964): 17-52. [https://doi.org/10.1016/0022-5193(64)90038-4].
+
+Kramer, Karen L. 'Cooperative Breeding and Human Evolution'. In _Emerging Trends in the Social and Behavioral Sciences_, 1-13. American Cancer Society, 2015. [https://doi.org/10.1002/9781118900772.etrds0055].
+
+Rothstein, Stephen I., and Raymond Pierotti. 'Distinctions among Reciprocal Altruism, Kin Selection, and Cooperation and a Model for the Initial Evolution of Beneficent Behavior'. _Ethology and Sociobiology_ 9, no. 2-4 (July 1988): 189-209. [https://doi.org/10.1016/0162-3095(88)90021-0].
+
+Trivers, Robert L. 'The Evolution of Reciprocal Altruism'. _The Quarterly Review of Biology_ 46, no. 1 (1971): 35-57.
