@@ -36,7 +36,7 @@ Cooperative breeding occurs relatively rarely among animals, only in around 2-3%
 
 This behavior, namely, to participate in the upbringing of an offspring from another descent, raises two evolutionary questions: (1) 'why spend time and energy to support another's reproductive interests?', and (2) 'does helping make a difference to maternal fitness and child well-being?' (Kramer, 2015)
 
-The main feature here is the raise of inclusive fitness either of the helper or the one receiving the help. Whether helping behavior would be favored, is dependent on the formula proposed by Hamilton (1964): $$rb > c$$. This formulation of kin selection proposes, that helping behavior will be selected towards, when $$rb > c$$ is true, where r refers to the degree of relatedness, b is the raise of inclusive fitness of the recipient, and c is the cost covered by the helper. Before Hamilton, there was no tenable formulation to explain the conditions of helping behavior.
+The main feature here is the raise of inclusive fitness either of the helper or the one receiving the help. Whether helping behavior would be favored, is dependent on the formula proposed by Hamilton (1964): _rb > c_. This formulation of kin selection proposes, that helping behavior will be selected towards, when _rb > c_ is true, where r refers to the degree of relatedness, b is the raise of inclusive fitness of the recipient, and c is the cost covered by the helper. Before Hamilton, there was no tenable formulation to explain the conditions of helping behavior.
 
 The predictions of Hamilton's formula were supported by several studies observing species of insects, birds, and mammals, pointing to the importance kinship plays in the evolution of cooperative breeding. Three general conclusions can be made:
 
@@ -52,7 +52,7 @@ We can see now that kin-based positive discrimination in the case of providing a
 
 ![Table 1 - Types of relatedness and their explanations](/images/table1.jpg)                                               
 
-What we have already seen, is that kin-based positive discrimination has evolutionary benefits, with an overall higher payoff, given Hamilton's formula. However, at this point, the question appeared to me, what is the case, where the coefficient of relatedness (_r_) is so low, that we would naturally predict selection against helping? This was the step, where I found myself thinking about different forms of altruism, and realized that kin selection theory only provides a good explanation for specific cases of helping, whereas other cooperative and beneficent behaviors cannot be accounted for only by $$rb > c$$.
+What we have already seen, is that kin-based positive discrimination has evolutionary benefits, with an overall higher payoff, given Hamilton's formula. However, at this point, the question appeared to me, what is the case, where the coefficient of relatedness (_r_) is so low, that we would naturally predict selection against helping? This was the step, where I found myself thinking about different forms of altruism, and realized that kin selection theory only provides a good explanation for specific cases of helping, whereas other cooperative and beneficent behaviors cannot be accounted for only by _rb > c_.
 
 Kramer also raised similar concerns: "_cooperative behaviors may be motivated by factors besides kin selection. Researchers have raised the point that kin selection is an ultimate cause focused on fitness payoffs. Because these payoffs often are time delayed, kin selection may be insufficient to explain the motivation to cooperate._" (Kramer, 2015, 7. p.) My concerns about the feasibility of kin selection as an ultimate explanation of helping seems grounded, so now I will move on to examine, whether altruism could be a possible alternative accounting for different forms of cooperative behaviors with no relatedness present as a motivational factor for preferring helping.
 
@@ -78,7 +78,7 @@ We can project these conditions to a bigger population, to generalize the argume
 1. altruism spreads non-randomly, based on kin selection of the recipients,
 1. altruism spreads non-randomly, based on the altruistic tendencies of the recipients.
 
-In the first case, altruism spreading randomly, thus being irrespective of the future benefits a reciprocal relationship could have, allele $$aˇ1$$ will replace allele $$aˇ2$$, in a large population. In the second case, which has been analyzed extensively by Hamilton (1964), allele $$aˇ2$$ will replace a1, given that the tendency is great enough for altruism to spread selectively to close kin. In this case, it is assumed necessary for altruists to have a capacity to discriminate between those having allele $$aˇ1$$ or $$aˇ2$$. However, this case holds the possibility of parasitism to occur, as the discriminatory capacity does not necessarily involve the capacity to differentiate between actually being close kin to altruists or just acting in such a way to receive the benefits of others' altruistic acts. In the third case, allele $$aˇ2$$ will be favorably selected for, given that the net benefit of altruists is greater than that of non-altruists, while holding the net benefit is relatively small, which also decreases the net costs. This scenario will occur, if altruists negatively discriminate towards non-altruists, by diminishing the further possibility of altruistic acts towards the non-altruists.
+In the first case, altruism spreading randomly, thus being irrespective of the future benefits a reciprocal relationship could have, allele _a1_ will replace allele _a2_, in a large population. In the second case, which has been analyzed extensively by Hamilton (1964), allele _a2_ will replace _a1_, given that the tendency is great enough for altruism to spread selectively to close kin. In this case, it is assumed necessary for altruists to have a capacity to discriminate between those having allele _a1_ or _a2_. However, this case holds the possibility of parasitism to occur, as the discriminatory capacity does not necessarily involve the capacity to differentiate between actually being close kin to altruists or just acting in such a way to receive the benefits of others' altruistic acts. In the third case, allele _a2_ will be favorably selected for, given that the net benefit of altruists is greater than that of non-altruists, while holding the net benefit is relatively small, which also decreases the net costs. This scenario will occur, if altruists negatively discriminate towards non-altruists, by diminishing the further possibility of altruistic acts towards the non-altruists.
 
 Given the above-described selective tendencies, Trivers (1971) concludes that altruistic alleles would be favored insomuch as the net average benefit to altruists are greater than the average benefit of non-altruist. This is true in cases where altruists limit their altruistic acts to their fellow altruists. Therefore, compared to Hamilton's (1964) formulation, this argument will also hold for altruistic acts transferred between individuals of different species.
 
@@ -109,9 +109,9 @@ Game Theory is aimed at studying the mathematical models of strategic and ration
 
 _A_ and _B_ are arrested and detained. Both of them are separated and kept in solitary confinement, without any means of communicating with each other. There is not enough evidence to convict both _A_ and _B_ on the main charges, but there is enough to convict both on some smaller charges. The prosecutors make an offer for each prisoner, at the same time, to maintain the communication between them still impossible. Their options are either to cooperate with the authorities and betray the other or to cooperate with the other by staying silent. The possible four outcomes are the following:
 
-1. If A and B testify against each other, both of them have to serve two years in prison.
-1. If A betrays B, but B doesn't make a confession against A, then A is released, and B is to serve three years.
-1. If B betrays A, but A doesn't make a confession against B, then B is released, and A is to serve three years.
+1. If _A_ and _B_ testify against each other, both of them have to serve two years in prison.
+1. If _A_ betrays _B_, but _B_ doesn't make a confession against _A_, then _A_ is released, and _B_ is to serve three years.
+1. If _B_ betrays _A_, but _A_ doesn't make a confession against _B_, then _B_ is released, and _A_ is to serve three years.
 1. If both of them remain silent, then each of them has to serve one year.
 
 Using a table could better illustrate the payoff matrix of such decision's outcomes, the numbers showing the years they would have to serve:
@@ -139,7 +139,7 @@ Let's assume that individual _A_ provides some aid to _B_, resulting in _B_'s in
 1. Therefore, cases of (1)-kind represent kin selection, and reciprocal altruism would be selected for, given: _BeB + BeA > C > BeB_.
 
 The difference of this formulation compared to Trivers' (1971) is that in cases explained by (3) there is no need for the benefits reciprocated in the future to be higher than the initial costs of providing aid. Rothstein and Pierotti (1988) consider this reformulation of Trivers (1971) less restrictive, so to be capable of explaining such cases of reciprocal relations where the individuals help unrelated others, even in cases where the costs are greater than future benefits. (Rothstein and Pierotti, 1988)
-#### _The difference between cooperation and reciprocal altruism
+#### _The difference between cooperation and reciprocal altruism_
 
 First, Rothstein and Pierotti (1988) turn to address the condition of time lag proposed by Trivers (1971). Only requiring a time lag between providing help and receiving some benefit misses the point of reciprocal altruism, because with this there is a chance to include phenomena in our definition that are other than reciprocal altruism. The crucial condition is rather that the original helper receives a future benefit because of a costly act by the initial recipient. They move on to show that, because of this mistaken overvaluation of the time lag condition, both of Trivers' (1971) examples of nonhuman reciprocal altruism represent some other phenomenon.
 
@@ -157,7 +157,7 @@ Besides the difference in timing of actions in the two phenomena and the symmetr
 
 Another crucial difference is the number of events needed for each situation. In reciprocal altruism, there are at least 2 events needed to meet the conditions, whereas in cooperation involving simultaneous actions there is no reason to involve several events, as the benefits being mutual are the result of each individual's work. In the following part of their article, Rothstein and Pierotti (1988) refer to cooperation as simultaneous cooperation, to avoid further confusion as reciprocal altruism can be viewed as a form of cooperation.
 
-### __Four categories of cooperative and beneficent behavior
+### __Four categories of cooperative and beneficent behavior__
 
 At this point, we can see now that what first has been defined as reciprocal altruism by Trivers (1971), was due to confusions emerging from inaccurate presentation of conditions by wrongly chosen examples. This approach resulted in mistaking other cooperative/beneficent behaviors to be cases of reciprocal altruism. Rothstein and Pierotti (1988) dissolved the confusion by introducing four categories of cooperative and beneficent behaviors. Here follow the steps involved in each of the categories presented (Rothstein and Pierotti, 1988, 201. p.):
 
