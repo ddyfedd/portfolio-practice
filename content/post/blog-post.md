@@ -59,7 +59,7 @@ By constantly re-evaluating your content, directed by the answers you found for 
 
 My next challenge on the way to become a Technical Writer was that I didn't have any software knowledge, besides being an everyday user. To be able to help my readers comprehend extremely complex concepts or processes (e.g. the use of billing software), I had to develop in this respect.
 
-Therefore, I took several programming courses online, my favorite ones are from (freeCodeCamp.org)[https://www.freecodecamp.org], where you can get certified in the biggest fields of software development. And what's more, the courses are completely free of charge!
+Therefore, I took several programming courses online, my favorite ones are from [freeCodeCamp.org](https://www.freecodecamp.org), where you can get certified in the biggest fields of software development. And what's more, the courses are completely free of charge!
 
 I highly recommend taking some courses there (they often resemble some exercises from our logic classes), as it makes you more confident while you have to interrogate developers about some new feature they installed, that has to be documented. With this knowledge, you will be able to communicate more effectively and become the link between the experts and the pure layman.
 
@@ -79,20 +79,20 @@ Knowing terms for the categories of information you encounter, will make your re
 
 ## Summary
 
-Technical Writing is one of the most demanded skills in the labor market. (Some estimations)[https://www.bls.gov/ooh/media-and-communication/technical-writers.htm] say demand will grow 10% from 2014 to 2024. Therefore, it's not in any way unreasonable to consider becoming a Technical Writer as a plan B for philosophers, especially that the skillset they have is what is needed for Technical Writers.
+Technical Writing is one of the most demanded skills in the labor market. [Some estimations](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm) say demand will grow 10% from 2014 to 2024. Therefore, it's not in any way unreasonable to consider becoming a Technical Writer as a plan B for philosophers, especially that the skillset they have is what is needed for Technical Writers.
 
 All in all, these were the skills I had to develop and practice a bit more to become successful in presenting highly complex information. For a last note, I would like to point out some good advice that could help you land your first job as a Technical Writer:
 
 - Learn everything you can about trends and technologies: Attend webinars, read books and articles, take courses. This will make you up-to-date with all the recent developments and you will be able to give an appropriate reaction to them.
-- Build a portfolio: This might sound a bit strange, as you've probably never written any technical text, but beginning to collect all the writings you have, and building a website for them will teach you not only how to be visible online, but also how to host a website, what type of website builders there are, etc. Also, you can find countless open-source projects on (GitHub)[https://www.github.com] needing a Technical Writer, which can be a good addition to your portfolio.
+- Build a portfolio: This might sound a bit strange, as you've probably never written any technical text, but beginning to collect all the writings you have, and building a website for them will teach you not only how to be visible online, but also how to host a website, what type of website builders there are, etc. Also, you can find countless open-source projects on [GitHub](https://www.github.com) needing a Technical Writer, which can be a good addition to your portfolio.
 - Reach out to others: Contacting other Technical Writers is one of the best ways to engage in constructive discussions, if you have doubts about your skills, or just have questions about different tools we use, just drop an email and we can show you around!
 
 ## Additional resources
 
 And to close off, here are some helpful resources if you would like to start your journey on the road towards Technical Writing. These were more than helpful when I had to find something to become better. Of course, this list is seriously incomplete, but Google is your best friend if you need some more material!
 
-- [https://developers.google.com/tech-writing]
-- [https://idratherbewriting.com/]
-- [https://www.freecodecamp.org/]
-- [https://becometechnicalwriter.com/]
-- [https://www.scriptorium.com/]
+- (https://developers.google.com/tech-writing)
+- (https://idratherbewriting.com/)
+- (https://www.freecodecamp.org/)
+- (https://becometechnicalwriter.com/)
+- (https://www.scriptorium.com/)
