@@ -32,7 +32,7 @@ Some of the tools included in the tutorials:
 
 These and many more topics are examined, and there is a lot of stuff to practice as well. The main example is documenting an endpoint of the [OpenWeatherMap API](https://openweathermap.org/api), namely the `weather` endpoint.
 
-## My exmaple
+## My example
 
 I completed the same task with the different tools, and here is one of my OpenAPI specification created for the `weather` endpoint, hosted on [Stoplight](https://stoplight.io/):
 
